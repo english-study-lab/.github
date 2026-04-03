@@ -28,7 +28,7 @@ English Study Lab의 핵심 커리큘럼입니다. 각 저장소를 클릭하여
 * **800 Level:** 중급 단어 2,040개 추가 습득 및 문맥 중심 학습
 * **900+ Level:** 고급 단어 990개 및 빈출 관용구(Idioms) 마스터
 
-#### 🇬🇧 [English Grammar Fundamentals](https://github.com/english-study-lab/grammar-fundamentals)
+#### 🧩 [English Grammar Fundamentals](https://github.com/english-study-lab/grammar-fundamentals)
 기초부터 고급까지 체계적으로 학습할 수 있는 **토익 최적화 영문법 완전 정복 가이드**입니다.
 * **Phase 1-2:** 8품사, 문장 성분, 구와 절의 완벽한 구조 이해
 * **Phase 3-4:** 시제, 태, 특수 구문 등 토익 빈출 출제 포인트 공략
