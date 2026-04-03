@@ -1,7 +1,7 @@
 # 💬 English Study Lab
 
 <p align="center">
-  <img src="profile/image_24.png" width="100%" alt="English Study Lab Systematic Approach to Language Learning header" />
+  <img src="../profile/english.jpg" width="100%" alt="English Study Lab Systematic Approach to Language Learning header" />
 </p>
 
 > **"언어 학습은 단순한 암기가 아닌, 체계적인 훈련과 구조의 이해입니다."**
